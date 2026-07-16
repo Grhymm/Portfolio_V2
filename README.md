@@ -37,8 +37,8 @@ Everything below is a stand-in and safe to search-and-replace. The design refere
 | Portrait photo | `components/hero/HeroCard.tsx` → `PLACEHOLDER_IMAGE` | Currently a `placehold.co` box. Swap for a real black & white portrait (portrait orientation, subject positioned toward the top of the frame — the crop uses `object-top`). The `grayscale` class stays on unless you want a color photo. |
 | Avatar | `components/hero/HeroContent.tsx` → profile header | Currently a 🧑‍💻 emoji in a rounded div. Replace with a real `next/image` avatar (~48px) once you have one. |
 | 3D shape visual | `components/hero/HeroContent.tsx` → `PLACEHOLDER_3D_SHAPE` | Same `placehold.co` approach. Replace with the green glossy 3D render PNG; keep it roughly square so the floating/rotating badge overlay still lines up. |
-| Name & title | `components/hero/HeroContent.tsx` | "Alexander Isak" / "UI Designer & No-Code Developer" — replace with your own. |
-| Typewriter words | `components/hero/HeroCard.tsx` → `<Typewriter words={[...]} />` | Currently `["Designer", "Developer", "Isak"]`. |
+| Name & title | `components/hero/HeroContent.tsx` | "Atarga Ondo Donel" / "UI Designer & No-Code Developer" — replace with your own. |
+| Typewriter words | `components/hero/HeroCard.tsx` → `<Typewriter words={[...]} />` | Currently `["Designer", "Developer", "Donel"]`. |
 | Bio paragraph | `components/hero/HeroCard.tsx` | "I help startups grow with smart design and no-code development, based in Cupertino, CA." |
 | Stats | `components/hero/HeroContent.tsx` → `stats` array | "10+ Year of experience" / "6x Industry Awards" — placeholder targets for the count-up animation. |
 | Client logos | `components/hero/HeroContent.tsx` → `clientLogos` / `LogoipsumMark` | Five "Logoipsum" text placeholders, duplicated into a scrolling marquee. Swap `LogoipsumMark` for real client logo SVGs/images. |

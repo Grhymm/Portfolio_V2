@@ -30,28 +30,28 @@ const testimonials: Testimonial[] = [
     name: "Daniel Ruiz",
     role: "Head of Product, Tempo App",
     quote:
-      "Working with Isak was seamless. The website came out fast, modern, and easy to update—exactly what our team needed.",
+      "Working with Donel was seamless. The website came out fast, modern, and easy to update—exactly what our team needed.",
     photo: "https://tfisak.vercel.app/assets/images/section/tes-1.jpg",
   },
   {
     name: "Sophia Lee",
     role: "Co-Founder, Horizon Finance",
     quote:
-      "Isak shaped our vision into a strong brand. The process was clear, fast, and the result gave our startup the professional edge we needed.",
+      "Donel shaped our vision into a strong brand. The process was clear, fast, and the result gave our startup the professional edge we needed.",
     photo: "https://tfisak.vercel.app/assets/images/section/tes-2.jpg",
   },
   {
     name: "Michael Anders",
     role: "Marketing Director, Flowly",
     quote:
-      "Despite a tight launch schedule, Isak delivered a clean, flexible site in Framer. It's modern, easy to manage, and fits our needs perfectly.",
+      "Despite a tight launch schedule, Donel delivered a clean, flexible site in Framer. It's modern, easy to manage, and fits our needs perfectly.",
     photo: "https://tfisak.vercel.app/assets/images/section/tes-3.jpg",
   },
   {
     name: "Ava Thompson",
     role: "Founder, Northlane Studio",
     quote:
-      "Isak brought both design sense and technical speed to the table. We went from a rough idea to a polished, no-code site in under two weeks.",
+      "Donel brought both design sense and technical speed to the table. We went from a rough idea to a polished, no-code site in under two weeks.",
     photo: "https://placehold.co/640x720/111111/3d3d3d/png?text=Portrait",
   },
 ];

@@ -41,7 +41,7 @@ export function Footer() {
             className="flex flex-col items-center gap-4 sm:flex-row sm:items-center sm:justify-between"
           >
             <p className="text-sm text-muted">
-              All rights reserved © {year} Isak Portfolio
+              All rights reserved © {year} Atarga Ondo Donel Portfolio
             </p>
             <Logo className="h-6 w-6 opacity-50" aria-hidden="true" />
           </motion.div>

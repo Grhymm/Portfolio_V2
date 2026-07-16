@@ -209,7 +209,7 @@ export function HeroContent() {
         </div>
         <div>
           <p className="font-heading font-medium text-foreground">
-            Alexander Isak
+            Atarga Ondo Donel
           </p>
           <p className="text-sm text-muted">
             UI Designer &amp; No-Code Developer

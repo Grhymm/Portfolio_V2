@@ -102,7 +102,7 @@ export function HeroCard() {
           variants={fadeInUp}
           className="text-lg font-medium text-white sm:text-xl"
         >
-          Hey, I&apos;m <Typewriter words={["Designer", "Developer", "Isak"]} />
+          Hey, I&apos;m <Typewriter words={["Designer", "Developer", "Donel"]} />
         </motion.h2>
 
         <motion.p variants={fadeInUp} className="max-w-xs text-sm leading-[1.5] text-white/60">
